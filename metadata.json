@@ -1,0 +1,6 @@
+{
+  "name": "Tap Away Arrows",
+  "description": "2D logic arrow puzzle game with intricate winding arrow mazes, 150 levels, and smooth physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
